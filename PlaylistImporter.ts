@@ -4,7 +4,7 @@ import { Playlist } from "./Playlist";
 //export class PlaylistImporter {
  //private code here
 
-  //constructor(importer: IImportable) {
+  //constructor(code here) {
 //     this._importer = importer;
 //   }
 

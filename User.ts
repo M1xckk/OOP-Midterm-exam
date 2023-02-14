@@ -38,18 +38,19 @@ export class User {
     return this._albums;
   }
 
-  //addPlaylist(playlist: Playlist): void {
-  //code here
-   
-  //addAlbum(album: Album): void {
-  //code here
+  addPlaylist(playlist: Playlist): void {
+    this._playlists.push(playlist);
+  }
 
-  //getSongs(): string[] 
-  //code here
-    
-  //getAlbums(): Album[] 
-  //code here
-
-  //getPlaylists(): Playlist[] 
-  //code here
+  addAlbum(album: Album): void {
+    this._albums.push(album);
+  }
 }
+  // getSongs(): string[] {
+ //code here 
+  //   return songs;
+  //no time 
+
+  //getAlbums()
+
+  //getPlaylists()
