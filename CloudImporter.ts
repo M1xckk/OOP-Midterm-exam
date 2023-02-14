@@ -15,9 +15,9 @@ import { Artist } from "./Artist";
 
 //create and return a fake playlist
 //const playlist = new Playlist("My Playlist")
-// const album = new Album("Fake Album",artist, 2010); can not fix the problem here, so command all the code below. 
-// album.addTrack(new Song("Fake Song 1"));
-// album.addTrack(new Song("Fake Song 2"));
+// const album = new Album("the 2nd Law",artist, 2012); can not fix the problem here, so command all the code below. 
+// album.addTrack(new Song(" Song 1"));
+// album.addTrack(new Song(" Song 2"));
 // playlist.addAlbum(album);
 // return playlist;
  
